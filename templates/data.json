@@ -47,5 +47,47 @@
     "y": 5904,
     "width": 289,
     "height": 161
+  },
+  "Olimar_and_pikmin": {
+    "name": "Olimar_and_pikmin.png",
+    "x": -4226,
+    "y": 6066,
+    "width": 213,
+    "height": 196
+  },
+  "strawberries": {
+    "name": "strawberries.png",
+    "x": -4376,
+    "y": 6075,
+    "width": 76,
+    "height": 78
+  },
+  "strawberry_milk_big": {
+    "name": "strawberry_milk_big.png",
+    "x": -4292,
+    "y": 6068,
+    "width": 67,
+    "height": 97
+  },
+  "strawberry_milk_small": {
+    "name": "strawberry_milk_small.png",
+    "x": -4493,
+    "y": 6072,
+    "width": 42,
+    "height": 58
+  },
+  "strawberry_shortcake": {
+    "name": "strawberry_shortcake.png",
+    "x": -4190,
+    "y": 5879,
+    "width": 89,
+    "height": 183
+  },
+  "strawberry_shortcake_small": {
+    "name": "strawberry_shortcake_small.png",
+    "x": -4437,
+    "y": 6072,
+    "width": 59,
+    "height": 60
   }
  }
