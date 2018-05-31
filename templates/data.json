@@ -26,5 +26,12 @@
     "y": -353,
     "width": 75,
     "height": 75
+  },
+  "italian_grid": {
+    "name": "italian_grid.png",
+    "x": 98,
+    "y": -353,
+    "width": 75,
+    "height": 75
   }
  }
