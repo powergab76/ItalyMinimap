@@ -33,5 +33,12 @@
     "y": 440,
     "width": 709,
     "height": 534
+  },
+  "bounsweat_berries": {
+    "name": "bounsweat_berries.png",
+    "x": -4706,
+    "y": 5939,
+    "width": 213,
+    "height": 180
   }
  }
