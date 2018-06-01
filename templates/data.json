@@ -96,5 +96,12 @@
     "y": -1804,
     "width": 180,
     "height": 203
+  },
+  "Brabyss": {
+    "name": "Brabyss.png",
+    "x": -140,
+    "y": -195,
+    "width": 715,
+    "height": 427
   }
  }
