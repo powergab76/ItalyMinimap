@@ -131,5 +131,12 @@
     "y": 1172,
     "width": 177,
     "height": 106
+  },
+  "flupixel grid": {
+    "name": "Flupixel_grid.png",
+    "x": -58,
+    "y": -509,
+    "width": 75,
+    "height": 75
   }
  }
