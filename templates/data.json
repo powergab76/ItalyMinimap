@@ -145,5 +145,33 @@
     "y": -587,
     "width": 75,
     "height": 75
+  },
+  "pixelberry grid": {
+    "name": "Pixelberry_grid.png",
+    "x": 488,
+    "y": -275,
+    "width": 75,
+    "height": 75
+  },
+  "spfc_grid": {
+    "name": "Spfc_grid.png",
+    "x": -58,
+    "y": -431,
+    "width": 75,
+    "height": 75
+  },
+  "uk_grid": {
+    "name": "Uk_grid.png",
+    "x": -136,
+    "y": -509,
+    "width": 75,
+    "height": 75
+  },
+  "vasco_grid": {
+    "name": "Vasco_grid.png",
+    "x": 488,
+    "y": -587,
+    "width": 74,
+    "height": 74
   }
  }
