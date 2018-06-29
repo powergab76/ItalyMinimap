@@ -138,5 +138,12 @@
     "y": -509,
     "width": 75,
     "height": 75
+  },
+  "brasil_grid": {
+    "name": "Brazil_grid.png",
+    "x": 20,
+    "y": -587,
+    "width": 75,
+    "height": 75
   }
  }
