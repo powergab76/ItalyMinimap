@@ -180,5 +180,12 @@
     "y": -108,
     "width": 90,
     "height": 96
+  },
+  "chef": {
+    "name": "chef.png",
+    "x": 1170,
+    "y": -128,
+    "width": 130,
+    "height": 127
   }
  }
