@@ -194,5 +194,12 @@
     "y": 2026,
     "width": 180,
     "height": 194
+  },
+  "alliance": {
+    "name": "alliance.png",
+    "x": 1724,
+    "y": 94,
+    "width": 257,
+    "height": 179
   }
  }
