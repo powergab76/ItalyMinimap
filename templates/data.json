@@ -201,5 +201,12 @@
     "y": 94,
     "width": 257,
     "height": 179
+  },
+  "imperial": {
+    "name": "imperial.png",
+    "x": 1516,
+    "y": -1324,
+    "width": 1196,
+    "height": 715
   }
  }
