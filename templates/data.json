@@ -208,5 +208,12 @@
     "y": -1324,
     "width": 1196,
     "height": 715
+  },
+  "empire": {
+    "name": "empire.png",
+    "x": 950,
+    "y": -600,
+    "width": 149,
+    "height": 109
   }
  }
