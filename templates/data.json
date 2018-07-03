@@ -215,5 +215,12 @@
     "y": -600,
     "width": 149,
     "height": 109
+  },
+  "papabless": {
+    "name": "papabless.png",
+    "x": 475,
+    "y": 245,
+    "width": 97,
+    "height": 41
   }
  }
